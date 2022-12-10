@@ -1,0 +1,11 @@
+clone_seq:
+
+real    1m43.396s
+user    1m51.221s
+sys     0m49.809s
+
+clone_par:
+
+real    0m55.296s
+user    1m38.637s
+sys     0m32.327s
