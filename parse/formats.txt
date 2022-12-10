@@ -1,0 +1,16 @@
+2022-09-15 08:42:50.959  INFO 1444 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-15 08:40:22.606  INFO 7 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-15 08:40:39.411  INFO 8 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-15 08:40:46,970 | INFO  | FelixStartLevel  | FeaturesServiceImpl              | 20 - org.apache.karaf.features.core - 3.0.8 | Installing feature war 3.0.8
+2022-09-15 08:40:36.967  INFO 7 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-15T08:40:36.352+0000 I CONTROL  [initandlisten] build environment:
+15/09/2022 08:41:30 [INFO ] 10 tcpServerAccept. connect from envoy.vs_servers-network, socket = 26
+2022-09-15 08:41:23,166 | INFO  | FelixStartLevel  | FeaturesServiceImpl              | 20 - org.apache.karaf.features.core - 3.0.8 | Installing feature scr 3.0.8
+2022-09-15 08:41:03,636 | INFO  | FelixStartLevel  | FeaturesServiceImpl              | 20 - org.apache.karaf.features.core - 3.0.8 | Installing feature pax-war 3.2.9
+2022-09-15 08:40:51.333  INFO 7 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
+2022-09-15 08:40:26.154  INFO 8 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
+INFO:werkzeug:10.0.30.16 - - [15/Sep/2022 08:56:30] "GET /admin/services/notifications?timestamp=1663232060 HTTP/1.1" 302 -
+
++%Y-%m-%d %H:%M:%S
++%Y-%m-%dT%H:%M:%S
++%d/%b/%Y %H:%M:%S
